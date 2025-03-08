@@ -31,3 +31,17 @@ Below are the typical steps you can follow (adjusting for your base Debian versi
 This method should give you access to the more current version (5.x) of Podman compared to the older version available from MX Linux’s default repositories.
 
 > Note: Always verify the repository URL and instructions against the [official Podman installation documentation](https://podman.io/getting-started/installation) or the Kubic repo page in case there are updates or changes for your specific Debian base version.
+
+
+# Running LLM localally talk
+
+
+* LLM a subset of Genarative AI 
+   a. Generates something new.
+   b. LLM's are text based and deal with words / languages
+   c. Are Probablistic. based on probability (Anticipates what you are going to say next)
+
+* Privacy & Security
+   a. No Data leaves your machine / network.
+   b. Sensitive data / info stays under your control
+   c. 
