@@ -37,14 +37,15 @@ This method should give you access to the more current version (5.x) of Podman c
 
 
 * LLM a subset of Genarative AI 
-   a. Generates something new.
-   b. LLM's are text based and deal with words / languages
-   c. Are Probablistic. based on probability (Anticipates what you are going to say next)
+   1. Generates something new.
+   2. LLM's are text based and deal with words / languages
+   3. Are Probablistic. based on probability (Anticipates what you are going to say next)
 
 * Privacy & Security
-   a. No Data leaves your machine / network.
-   b. Sensitive data / info stays under your control
-   c. Every LLM is vulnerable to Jailbreaking & prompt injection.
-   d. Model Bias and poisining.
+
+   1. No Data leaves your machine / network.
+   2. Sensitive data / info stays under your control
+   3. Every LLM is vulnerable to Jailbreaking & prompt injection.
+   4. Model Bias and poisining.
 
 
